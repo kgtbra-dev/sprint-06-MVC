@@ -1,3 +1,32 @@
 [
-    
+  {
+    "id": 1,
+    "usuario": "kev",
+    "texto": "sdsd",
+    "data": "2026-11-26T18:54:39.849Z"
+  },
+  {
+    "id": 2,
+    "usuario": "kev kev 2",
+    "texto": "sdsd",
+    "data": "2026-11-26T18:58:00.511Z"
+  },
+  {
+    "id": 3,
+    "usuario": "Aluno Teste",
+    "texto": "Mensagem enviada pelo MVC",
+    "data": "2026-11-26T19:00:21.879Z"
+  },
+  {
+    "id": 4,
+    "usuario": "Aluno Teste",
+    "texto": "Mensagem enviada pelo MVC",
+    "data": "2026-11-26T19:09:23.869Z"
+  },
+  {
+    "id": 5,
+    "usuario": "Aluno Teste",
+    "texto": "Minha mensagem de teste",
+    "data": "2026-11-26T19:09:56.850Z"
+  }
 ]
